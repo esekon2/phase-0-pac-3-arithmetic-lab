@@ -15,6 +15,7 @@ function divide(a, b){
 
 function increment(n){
     return++n;
+    coonsole.log(increment(n));
 }
 
 function decrement(n){
